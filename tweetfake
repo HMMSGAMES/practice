@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doc</title>
+</head>
+<style>
+    .username {
+        font-weight: bold;
+    }
+    .punisher {
+        width: 100px;
+        border-radius: 50px;
+        float: left;
+        margin-right: 10px;
+    }
+</style>
+<body style="background-color: rgb(145, 190, 192);"></body>
+<img class="punisher" src="images/passwordpro.jpg" alt="punisher.png">
+    <p class="username">@Chase_bryant11</p>
+    <p>Hey guys its chase, I just lost a tooth today</p>
+</body>
+</html>
